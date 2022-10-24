@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="/images/banner.png" width="100%">
 <!--
 **wcbDev/wcbDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
